@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ellyan Fernandes 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellyan-fernandes-pereira-ara%C3%BAjo-509718215/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellyan-fernandes/)
 
 
 ![EllyanF GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllyanF&show_icons=true&theme=onedark)
