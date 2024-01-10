@@ -5,7 +5,7 @@
 
 ![EllyanF GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllyanF&show_icons=true&theme=onedark)
 
-### Linguagens que possuo conhecimentos:
+### Tecnologias que possuo conhecimentos:
 
 <div style ="display inline_block">
 
